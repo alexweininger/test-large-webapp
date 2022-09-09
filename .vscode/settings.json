@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net6.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/570117a0-fe37-4dde-ae48-b692c1b25f70/microsoft.web/sites/subscriptions/570117a0-fe37-4dde-ae48-b692c1b25f70/resourceGroups/appsvc_windows_centralus_basic2/providers/Microsoft.Web/sites/wein-dotnet-test"
+}
